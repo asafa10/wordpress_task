@@ -5,12 +5,14 @@
         <group>
             <file>file:/var/www/wordpress/wp-content/themes/twentyseventeen/functions.php</file>
             <file>file:/var/www/wordpress/wp-content/themes/twentyseventeen/php-modules/remove_event_actions.php</file>
+            <file>file:/var/www/wordpress/googleCalendarController.php</file>
             <file>file:/var/www/wordpress/wp-content/themes/twentyseventeen/php-modules/events_custom_columns.php</file>
             <file>file:/var/www/wordpress/wp-content/themes/twentyseventeen/assets/js/requestAjax.js</file>
             <file>file:/var/www/wordpress/wp-content/themes/twentyseventeen/php-modules/events_post_type.php</file>
             <file>file:/var/www/wordpress/wp-content/themes/twentyseventeen/php-modules/events.php</file>
+            <file>file:/var/www/wordpress/wp-content/themes/twentyseventeen/php-modules/sort_table_data.php</file>
             <file>file:/var/www/wordpress/wp-content/themes/twentyseventeen/php-modules/events_custom_column_content.php</file>
-            <file>file:/var/www/wordpress/quickstart.php</file>
+            <file>file:/var/www/wordpress/README.md</file>
         </group>
     </open-files>
 </project-private>
